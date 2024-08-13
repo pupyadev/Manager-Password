@@ -1,9 +1,5 @@
 ---
-{}
+title: Manager-Password
 ---
-
-```
-Manager-Password
-```
 
 
