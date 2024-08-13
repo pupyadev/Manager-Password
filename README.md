@@ -3,5 +3,3 @@
 ---
 
 # Manager-Password
-
-привет
